@@ -614,44 +614,63 @@ header {
     top: 3780px;
 }
 
-.botao-facebook {
-    background-color: unset;
-    width: 40px;
-    height: 40px;
-    position:absolute;
-    top: 3848px;
-    left: 500px;
-    cursor: pointer;
+#botoes-footer {
+    text-align: center;
+    align-items: center;
+    align-content: center;
 }
 
-.botao-instagram {
+#botao-facebook {
     background-color: unset;
-    width: 47px;
-    height: 47px;
+    font-size: 5vh;
+    position:absolute;
+    top: 3845px;
+    left: 500px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#botao-facebook:hover {
+    color: rgba(0, 136, 169, 1);
+}
+
+#botao-instagram {
+    background-color: unset;
+    font-size: 5vh;
     position:absolute;
     top: 3843px;
     left: 700px;
     cursor: pointer;
 }
 
-.botao-linkedin {
+#botao-instagram:hover {
+    color: rgba(0, 136, 169, 1);
+}
+
+#botao-linkedin {
     background-color: unset;
-    width: 50px;
-    height: 50px;
+    font-size: 5vh;
     position:absolute;
     top: 3845px;
     left: 600px;
     cursor: pointer;
 }
 
-.botao-github {
+#botao-linkedin:hover {
+    color: rgba(0, 136, 169, 1);
+}
+
+#botao-github {
     background-color: unset;
-    width: 43px;
-    height: 43px;
+    font-size: 5vh;
     position:absolute;
     top: 3844px;
     left: 800px;
     cursor: pointer;
+}
+
+#botao-github:hover {
+    color: rgba(0, 136, 169, 1);
 }
 
 .texto-footer p:nth-child(3) {
