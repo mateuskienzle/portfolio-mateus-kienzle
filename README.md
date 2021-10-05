@@ -1,16 +1,15 @@
 # My personal portfolio 🙋🏻‍♂️
 
 Here you can find out more about me and some experiences that i
-had in my life.
+had in my life
 
 
 ## Content 🗃
 
 - A little resume about me
-- Some projects that i made
+- Some projects that i did
 - Knowledge
 - Professionals experiences
--  Social networks of mine
 
   
 ## Know a bit more about me 🔎
